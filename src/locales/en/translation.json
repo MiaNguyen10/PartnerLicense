@@ -1,0 +1,54 @@
+{
+  "Login": "LOG IN",
+  "LoginEmailInputErrorValidation":"Username is required",
+  "LoginEmailInputErrorFormat": "Please fill your email (xxxxxx@xxxxxx.com).",
+  "LoginPasswordInputErrorValidation":"Password is required",
+  "LoginPasswordInputErrorFormat":"Password should have be uppercase, lowercase, digit and special character at least 1 char. Length should be at least 8 char",
+
+  "MyProfile": "My Profile",
+  "Partner" : "Partner",
+  "Logout":"Logout",
+  
+  "PartnerID": "Partner ID",
+  "pSecret" : "Partner Secret",
+  "AddP" : "Add Partner",
+  "Search" : "Search",
+  "No":"No",
+  "Project": "Project",
+  "Status":"Status",
+  "TimeUpdate":"Update at",
+
+  "PageActionViewButton":"View",
+  "PageActionEditButton":"Edit",
+  "PageActionDeleteButton":"Delete",
+
+  "ProjectStatusActive":"Active",
+  "ProjectStatusNotActive": "Not Active",
+
+  "PartnerIDInputErrorValidation":"Partner ID is required",
+  "PartnerSecretInputErrorValidation":"Partner secret is required",
+
+  "PageActionCancelButton":"Cancel",
+  "PageActionSubmitButton":"Submit",
+  "Notification":"Are you sure delete partner",
+
+  "Success-Add":"Create success",
+  "Success-Edit": "Update success.",
+  "Success-Login": "Login success",
+  "Success-delete": "Delete success",
+  "Error-TOKEN_EXPIRED": "Token is expired, please try again.",
+  "Error-VERSION_DUPLICATE": "Version is already used.",
+  "Error-DEFAULT": "API has an error, please contact your admin.",
+  "Error-SERVER_ERROR": "API has an error, please contact your admin.",
+  "Error-UNAUTHORIZED": "Not have username, password.",
+  "Error-INPUT_ERROR": "Error input.",
+  "Error-KEY_DUPLICATE": "Key is duplicate.",
+  "Error-EMAIL_NOT_EXIST": "Email doesn't exist.",
+  "Error-MERCHANT_EXIST": "Email already exist.",
+  "Error-ADMIN_EXIST": "Email already exist.",
+  "Error-ACCOUNT_LOCK": "Account lock or Force reset password, please forget password or check your email.",
+  "Error-XSS": "Cannot insert script ex. javascript:",
+  "Error-LOGIN_ERROR": "Error maybe your email or password not correct.",
+  "Error-FORM_INPUT_ERROR": "Please fill in required fields",
+  "Error-INVALID_STATUS": "Error email is exist."
+}

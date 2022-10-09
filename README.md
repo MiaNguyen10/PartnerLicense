@@ -1,2 +1,1 @@
-# PartnerLicense
- Backoffice web
+# partner-license
